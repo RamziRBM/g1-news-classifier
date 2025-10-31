@@ -2,6 +2,8 @@
 
 This project implements a news classifier that automatically categorizes news text into fraud and real using TF-IDF (Term Frequency–Inverse Document Frequency) for feature extraction and XGBoost for classification.
 
+---
+
 ## 🚀 Project Overview
 
 The goal of this project is to build a robust machine learning model capable of classifying news articles fraud or real based on their textual content.
