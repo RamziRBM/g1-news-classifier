@@ -41,4 +41,31 @@ Lemmatization (optional)
 
 TF-IDF vectorization for feature extraction
 
-Example:
+## 🤖 Model Training
+
+We train an XGBoost Classifier on the TF-IDF features.
+
+## 📈 Evaluation
+
+The model is evaluated using standard classification metrics.
+Typical metrics include:
+
+Accuracy
+
+Precision
+
+Recall
+
+F1-score
+
+# 🔮 Making Predictions
+
+You can predict the category of a new article using the saved model and vectorizer:
+
+# 📊 Results
+
+| Metric   | Score |
+| :------- | :---: |
+| Accuracy |  0.94 |
+| F1-score |  0.91 |
+
