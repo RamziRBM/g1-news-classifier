@@ -1,4 +1,4 @@
-##📰 News Classifier using TF-IDF and XGBoost
+📰 #News Classifier using TF-IDF and XGBoost
 
 This project implements a news classifier that automatically categorizes news text into fraud and real using TF-IDF (Term Frequency–Inverse Document Frequency) for feature extraction and XGBoost for classification.
 
